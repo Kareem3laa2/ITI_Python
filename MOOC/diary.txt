@@ -1,0 +1,5 @@
+This is the first line in my diary
+This is the second line in my diary
+First line
+Second Line
+Third Line
